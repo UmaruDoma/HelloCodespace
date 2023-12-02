@@ -3,7 +3,9 @@ test java und miecraft dev in CodeSpace
 
 In der commandshell>
 mkdir mcserver
+
 cd mcserver
+
 wget https://download.getbukkit.org/spigot/spigot-1.20.2.jar
 
 Startspigot.sh anlegen
