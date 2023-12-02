@@ -1,2 +1,6 @@
 # Compile class file
 *.class
+spigot*.jar
+mcserver/*
+mcserver
+node_modules
