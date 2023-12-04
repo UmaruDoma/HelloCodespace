@@ -5,4 +5,6 @@ mcserver/*
 mcserver
 node_modules
 mcplug/target
+buildtools
+mcplug/jars
 

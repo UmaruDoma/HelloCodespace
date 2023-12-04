@@ -1,4 +1,4 @@
-package mcplug.src.test.java.de.cndrbrbr;
+package de.cndrbrbr;
 
 import org.junit.jupiter.api.Test;
 

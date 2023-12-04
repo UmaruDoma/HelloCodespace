@@ -1,4 +1,6 @@
-package mcplug.src.main.java.de.cndrbrbr;
+package de.cndrbrbr;
+import org.bukkit.Bukkit;
+import org.bukkit.inventory.Recipe;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class App extends JavaPlugin {
