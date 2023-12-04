@@ -40,6 +40,13 @@
         <version>1.20.2-R0.1-SNAPSHOT</version>
         <scope>provided</scope>
     </dependency>
+    <dependency>
+        <groupId>org.bukkit</groupId>
+            <artifactId>bukkit</artifactId>
+            <version>1.8-R0.1-SNAPSHOT</version>
+            <type>jar</type>
+            <scope>provided</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
@@ -126,7 +133,7 @@
       </plugin>
     </plugins>
   </reporting>
-    <repositories>
+      <repositories>
         <repository>
             <id>spigot-repo</id>
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
