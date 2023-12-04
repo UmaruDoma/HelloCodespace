@@ -4,5 +4,5 @@ spigot*.jar
 mcserver/*
 mcserver
 node_modules
-mcplug
-mcplug/*
+mcplug/target
+
